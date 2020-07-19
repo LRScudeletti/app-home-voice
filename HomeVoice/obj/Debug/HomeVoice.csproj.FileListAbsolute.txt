@@ -1,0 +1,16 @@
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\bin\Debug\HomeVoice.exe.config
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\bin\Debug\HomeVoice.exe
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\bin\Debug\HomeVoice.pdb
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\bin\Debug\Microsoft.Speech.dll
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.csprojAssemblyReference.cache
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\MainWindow.baml
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\MainWindow.g.cs
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\App.g.cs
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice_MarkupCompile.cache
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.g.resources
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.Properties.Resources.resources
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.csproj.GenerateResource.cache
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.csproj.CoreCompileInputs.cache
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.csproj.CopyComplete
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.exe
+C:\Users\roger\Documents\Workspaces\VisualStudio\HomeVoiceSolution\HomeVoice\obj\Debug\HomeVoice.pdb
