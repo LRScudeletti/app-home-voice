@@ -198,6 +198,7 @@ namespace HomeVoice
         private void SpeechRejected(object sender, SpeechRecognitionRejectedEventArgs e)
         {
             // No recognized phrases
+            // Your code here
         }
 
         private void MainWindow_OnUnloaded(object sender, RoutedEventArgs e)
